@@ -1,0 +1,10 @@
+{
+  "prefix": "h!",
+  "botName": "中央銀行Bot",
+  "currency": "コイン",
+  "startingMoney": 10000,
+  "loginBonus": 1000,
+  "depositFee": 0,
+  "withdrawFee": 1,
+  "transferFee": 1
+}
